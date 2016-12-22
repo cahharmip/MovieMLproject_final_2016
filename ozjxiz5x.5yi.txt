@@ -1,0 +1,11 @@
+﻿Start the project
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   IMDB data .pptx
+#	new file:   dataOrganization.py
+#	new file:   mov_mm_train.csv
+#	new file:   pandas-0.19.1-cp27-cp27m-win_amd64.whl
+#
+
